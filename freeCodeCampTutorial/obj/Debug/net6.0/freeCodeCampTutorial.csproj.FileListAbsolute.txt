@@ -1,0 +1,15 @@
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\bin\Debug\net6.0\freeCodeCampTutorial.exe
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\bin\Debug\net6.0\freeCodeCampTutorial.deps.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\bin\Debug\net6.0\freeCodeCampTutorial.runtimeconfig.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\bin\Debug\net6.0\freeCodeCampTutorial.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\bin\Debug\net6.0\freeCodeCampTutorial.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.AssemblyInfo.cs
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\refint\freeCodeCampTutorial.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\freeCodeCampTutorial.genruntimeconfig.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\freeCodeCampTutorial\obj\Debug\net6.0\ref\freeCodeCampTutorial.dll

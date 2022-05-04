@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Test Suite</title>
+<script src="lib.js" type="text/javascript"></script>
+<link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.19.0.css">
+<script src="https://code.jquery.com/qunit/qunit-2.19.0.js"></script>
+</head>
+
+<body>
+  <div id="qunit"></div>
+  <div id="qunit-fixture"></div>
+
+  <div id="app">rfdf</div>
+
+   
+    <script>
+
+// function add(a, b) {
+//     return a + b;
+//   }
+
+//   QUnit.module('add', function() {
+//     QUnit.test('two numbers', function(assert) {
+//       assert.equal(add(1, 2), 3);
+//     });
+//   });
+        let html = document.getElementById("app").innerHTML
+        let a = true;
+
+        QunitTesting();
+        function QunitTesting(){
+            if(a == true){
+                html = "wallah BROR!";
+            }
+            else{
+                html = "Ingen wallah BROR her!";
+
+            }
+            
+        }
+        QUnit.test("Wallah brur", function (assert){
+            QunitTesting()
+            let actual = "Walla BROR!";
+            let expected = "Walla BROR!";
+            assert.equal(actual, expected);
+        });
+
+        QUnit.test("Wallah brur", function (assert){
+            let actual = "Walla BROR!";
+            let expected = "Walla BROR!";
+            assert.equal(actual, expected);
+        });
+
+
+
+        
+
+    
+
+
+    </script>
+    
+</body>
+</html>

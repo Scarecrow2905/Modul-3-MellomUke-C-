@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="lib.js" type="text/javascript"></script>
+</head>
+<body>
+    <input type="text"  value="model.navn"oninput="model.navn = this.this"/>
+    <button onclick="SendInnInformasjonTrykk()">Trykk Wallah</button>
+    <div id="reversedText"></div>
+
+    <script>
+        const model = {
+            navn: '',
+            status: '',
+        }
+
+        function SendInnInformasjonTrykk(){
+            if(model.navn == 'Børre'){
+                model.status = 'Happy'
+            }else{
+                model.status = 'Not Happy'
+            }
+        }
+
+        function handleNewText(inputTag) {
+            let text = inputTag.value;
+            let reversedText = reverseText(text);
+            document.getElementById('reversedText').innerHTML = reversedText;
+        }
+    </script>
+</body>
+</html>
