@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Main-metodenOgArgs": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

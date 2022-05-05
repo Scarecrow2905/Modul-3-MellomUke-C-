@@ -4,12 +4,12 @@
     "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj",
+        "projectName": "Moodle",
+        "projectPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj",
         "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj": {
-                "projectPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj"
+              "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj": {
+                "projectPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj"
               }
             }
           }

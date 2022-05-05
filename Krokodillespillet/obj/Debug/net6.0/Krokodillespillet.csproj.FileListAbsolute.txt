@@ -1,0 +1,15 @@
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.exe
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.deps.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.runtimeconfig.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.AssemblyInfo.cs
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\refint\Krokodillespillet.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.genruntimeconfig.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Krokodillespillet\obj\Debug\net6.0\ref\Krokodillespillet.dll

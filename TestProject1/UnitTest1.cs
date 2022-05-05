@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using ConsoleApp1;
 
 namespace TestProject1
 {

@@ -883,14 +883,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "ConsoleApp1/1.0.0": {
+      "Moodle/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ConsoleApp1.dll": {}
+          "bin/placeholder/Moodle.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ConsoleApp1.dll": {}
+          "bin/placeholder/Moodle.dll": {}
         }
       }
     }
@@ -3855,16 +3855,16 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "ConsoleApp1/1.0.0": {
+    "Moodle/1.0.0": {
       "type": "project",
-      "path": "../ConsoleApp1/ConsoleApp1.csproj",
-      "msbuildProject": "../ConsoleApp1/ConsoleApp1.csproj"
+      "path": "../ConsoleApp1/Moodle.csproj",
+      "msbuildProject": "../ConsoleApp1/Moodle.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ConsoleApp1 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
+      "Moodle >= 1.0.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
       "coverlet.collector >= 3.1.0"
@@ -3897,8 +3897,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj": {
-              "projectPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\ConsoleApp1.csproj"
+            "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj": {
+              "projectPath": "C:\\Users\\Tommy\\Documents\\GitHub\\Modul-3-MellomUke-C-\\ConsoleApp1\\Moodle.csproj"
             }
           }
         }

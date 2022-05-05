@@ -1,0 +1,5 @@
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\ConsoleApp1\obj\Debug\net6.0\Moodle.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\ConsoleApp1\obj\Debug\net6.0\Moodle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\ConsoleApp1\obj\Debug\net6.0\Moodle.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\ConsoleApp1\obj\Debug\net6.0\Moodle.AssemblyInfo.cs
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\ConsoleApp1\obj\Debug\net6.0\Moodle.csproj.CoreCompileInputs.cache

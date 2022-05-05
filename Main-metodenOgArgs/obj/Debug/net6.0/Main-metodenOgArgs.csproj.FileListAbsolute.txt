@@ -1,0 +1,17 @@
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\bin\Debug\net6.0\Main-metodenOgArgs.exe
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\bin\Debug\net6.0\Main-metodenOgArgs.deps.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\bin\Debug\net6.0\Main-metodenOgArgs.runtimeconfig.json
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\bin\Debug\net6.0\Main-metodenOgArgs.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\bin\Debug\net6.0\Main-metodenOgArgs.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.csproj.AssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.AssemblyInfoInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.AssemblyInfo.cs
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\refint\Main-metodenOgArgs.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.pdb
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.genruntimeconfig.cache
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\ref\Main-metodenOgArgs.dll
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main_metodenOgArgs.Properties.Resources.resources
+C:\Users\Tommy\Documents\GitHub\Modul-3-MellomUke-C-\Main-metodenOgArgs\obj\Debug\net6.0\Main-metodenOgArgs.csproj.GenerateResource.cache
