@@ -20,6 +20,7 @@ namespace Krokodillespillet
                 string userInput = Console.ReadLine();
                 if (userInput != "<" && userInput != ">" && userInput != "=")
                 {
+                    Console.WriteLine("Wallah, ugyldig tegn!");
                     gameIsRunning = false;
                 }
                 else
@@ -29,9 +30,10 @@ namespace Krokodillespillet
                     RandomNum2 = random.Next(0, 12);
 
                     Console.WriteLine(RandomNum + userInput + RandomNum2);
+
                     // Skal sjekke hvilket tall som er størst
-                    // Skal printe ut score
-                    // 
+                    // Skal printe ut score 
+
                     if (RandomNum > RandomNum2 && userInput == ">") points++;
                     if (RandomNum > RandomNum2 && userInput == "<") points--;
                     if (RandomNum > RandomNum2 && userInput == "=") points--;
