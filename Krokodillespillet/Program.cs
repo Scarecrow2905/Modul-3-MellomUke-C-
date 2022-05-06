@@ -20,7 +20,7 @@ namespace Krokodillespillet
                 string userInput = Console.ReadLine();
                 if (userInput != "<" && userInput != ">" && userInput != "=")
                 {
-                    Console.WriteLine("Wallah, ugyldig tegn!");
+                    Console.WriteLine("Ugyldig tegn!");
                     gameIsRunning = false;
                 }
                 else
