@@ -48,7 +48,7 @@ namespace DiceGame
                 Console.WriteLine("--------------------------------");
             }
 
-            if(playerPoints > enemyPoints)
+            if(playerPoints > enemyPoints) // Når for-loopen er ferdig så kjøres dette (etter 10 runder) og sjekker hvem som har flest poeng.
             {
                 Console.WriteLine("Spillet er over, du vant!");
             }
